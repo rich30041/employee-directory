@@ -42,4 +42,4 @@ The user will be able to:
 
 
 ## Github Link
-- [Github App Link](https://gehanstedt.github.io/rich-employee/) 
+- [Github App Link](https://rich30041.github.io/employee-directory/) 
