@@ -20,7 +20,7 @@ For this assignment, you'll create a employee directory with React. This assignm
 
 ## Application screen shot
 
-![Foto1](./rich30041_employee-directory)
+![Foto1](./employee-directory.gif)
 
 ## User Story
 
